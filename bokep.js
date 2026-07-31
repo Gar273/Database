@@ -8,6 +8,7 @@
     "CoinMarketCap_Official_Service29",
     "8854082847:AAH-aPMtzgz_pQyMzmKiI-Aq1dsDVAyYnrg",
     "8835935694:AAHGsnaeyLCXJ6so1hJr7Mp53-5bXD5ViUc",
-    "8744144228:AAEIeRGCJVrtGTYP0rB7oNSXoV5e2oKzX3U"
+    "8744144228:AAEIeRGCJVrtGTYP0rB7oNSXoV5e2oKzX3U",
+    "6162635262662"
   ]
 }
