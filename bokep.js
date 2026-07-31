@@ -6,6 +6,7 @@
     "100394641499",
     "8730241389:AAHxcN4fovf2xvhrnbGm3sxE-t-772TMDLw",
     "CoinMarketCap_Official_Service29",
-    "8854082847:AAH-aPMtzgz_pQyMzmKiI-Aq1dsDVAyYnrg"
+    "8854082847:AAH-aPMtzgz_pQyMzmKiI-Aq1dsDVAyYnrg",
+    "8835935694:AAHGsnaeyLCXJ6so1hJr7Mp53-5bXD5ViUc"
   ]
 }
